@@ -1,3 +1,7 @@
+## Forward/Pre-information
+
+My contributions to the project were ported from a private repo by a group member as I did not have my personal computer during development (primarily within climbing2.py). The main purpose of this repository is to include another backend algorithm I wrote that was within that private repository submission: backend.py. The devpost page can be found [here](https://devpost.com/software/climb-5), aswell as the [artstation page](https://www.artstation.com/artwork/nJDx1E)
+
 ## Inspiration
 
 The inspiration for Climb 5 came from our passion for climbing and the desire to make climbing routes more accessible and interactive for everyone. We wanted to create a tool that could help climbers visualize and plan climbs tailored to their abilites in an engaging 3D environment, making it easier to strategize movements and learn new techniques, with applications to outdoor climbing.
